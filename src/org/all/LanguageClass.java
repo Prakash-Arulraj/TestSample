@@ -5,8 +5,15 @@ import org.telugu.Telugu;
 //public class child class parent class
 public class LanguageClass extends Telugu {
 	
+
 	private void abi() {
 		System.out.println("This is Abi Branch");
+		
+	}
+
+	private void prakash() {
+		System.out.println("This is Prakash Branch");
+
 
 	}
 	
